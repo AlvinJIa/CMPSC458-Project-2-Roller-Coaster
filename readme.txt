@@ -1,8 +1,3 @@
-For github:
-	Media is not include, too much and too big.
-
-
-
 What I've done:
 	Track				100%
 	camera  			100%
